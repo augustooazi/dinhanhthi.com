@@ -1,12 +1,12 @@
-title: Anh-Thi Dinh
-description: I failed my way to success
+title: NoteTheme2
+description: Advanced theme for note taking
 baseurl: ""
-url: "https://dinhanhthi.com"
+url: ""
 
 title-separator: "-"
 
-google_analytics: UA-58921685-1
-fb_app_id: "1150663561751902"
+google_analytics:
+fb_app_id:
 
 timezone: "Europe/Paris"
 markdown: kramdown
@@ -19,7 +19,7 @@ permalink: /:title
 plugins:
   - jemoji
   - jekyll-sitemap
-  # - jekyll-feed
+  - jekyll-feed
   - jekyll-katex
   - jekyll-admin
   - jekyll-include-cache

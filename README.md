@@ -21,6 +21,7 @@ An advanced upgrade from [NoteTheme version 1](https://github.com/dinhanhthi/not
 9. Search engine friendly.
 10. Invisible option: make your site invisible to search engines.
 11. More guides + examples for customizing the theme based on your interest.
+12. Offline admin page.
 
 ## How to install?
 
