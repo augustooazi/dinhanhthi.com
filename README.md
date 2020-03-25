@@ -1,29 +1,40 @@
-# dinhanhthi.com [![Netlify Status](https://api.netlify.com/api/v1/badges/ace14869-1b28-471b-ad0f-5f1f7defa382/deploy-status)](https://app.netlify.com/sites/inspiring-goldstine-cfc130/deploys)
+# NoteTheme2
 
-Source code of my personal website. If you would like to use this source code, please indicate me in the credit and let me know first, thanks! My email: dinhanhthi@gmail.com.
+An advanced upgrade from [NoteTheme version 1](https://github.com/dinhanhthi/notetheme). Below are big updates:
 
-List of jupyter notebooks used in this website: [Google Drive folder](https://drive.google.com/drive/folders/1DHvEeX-_jT-ud9_kn8NWN51tR-xyje9c?usp=sharing).
+1. Build from scratch based on Bootstrap.
+2. More components for writing/decoration.
+3. More custom pages (personal, learning log,...)
+4. Increase page search / page load speed.
+5. Support custom plugins / running on Netlify.
 
-After cloning to a local server, run these:
+## Features
 
-~~~
-# install git
+1. Clean + Simple + Beautiful (demo)
+2. Fully supported + frequently updated.
+3. A lot of useful components for taking notes.
+4. Display table of content on a fixed sidebar.
+5. Majax / KaTeX for wrtiting mathematics.
+6. Search quickly based on keywords / full text site.
+7. Tags and Categories.
+8. Responsibility + Mobile friendly.
+9. Search engine friendly.
+10. Invisible option: make your site invisible to search engines.
+11. More guides + examples for customizing the theme based on your interest.
 
-# install ruby
-ruby --version
+## How to install?
 
-# install bundler
-gem install bundler
+Read this detailed instructions, below are basic steps:
 
-# cd to the repo directory and install gems
-bundle install
+1. Clone this repository.
+2. Create an account on Netlify and sign in.
 
-# run the server (http://localhost:4000)
-bundle exec jekyll serve
+## How to use?
 
-# incremental build (only build the changes, faster)
-bundle exec jekyll serve -I
+1. Customize basic things of the theme.
+2. Use the boxes in the theme.
+3. Create your own plugins/components.
 
-# build also the posts in `_drafts`
-bundle exec jekyll serve --draft
-~~~
+## Contact & Support
+
+**Anh-Thi Dinh** -- [dinhanhthi.com](https://dinhanhthi.com) -- [dinhanhthi@gmail.com](mailto:dinhanhthi@gmail.com)
