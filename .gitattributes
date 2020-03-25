@@ -10,6 +10,3 @@ feed.xml merge=ours
 img\post\ merge=ours 
 img\ merge=ours 
 _data\ merge=ours 
-_posts merge=ours 
-_posts/* merge=ours 
-_posts\* merge=ours 
