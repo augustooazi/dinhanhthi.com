@@ -1,1 +1,2 @@
-* merge=ours 
+* merge=ours
+python/* merge=ours
