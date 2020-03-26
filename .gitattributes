@@ -1,12 +1,5 @@
 _config.yml merge=ours 
-_posts\ merge=ours 
-_drafts\ merge=ours 
-_site\ merge=ours 
-dat.com.code-workspace merge=ours 
-files\ merge=ours 
-tools\ merge=ours 
+*.md merge=ours 
+*.code-workspace merge=ours 
 README.md merge=ours 
 feed.xml merge=ours 
-img\post\ merge=ours 
-img\ merge=ours 
-_data\ merge=ours 
