@@ -1,6 +1,4 @@
 _config.yml merge=ours 
-*.md merge=ours 
-_posts\web-dev\*.md merge=ours
-*.code-workspace merge=ours 
+dat.com.code-workspace merge=ours 
 README.md merge=ours 
 feed.xml merge=ours 
