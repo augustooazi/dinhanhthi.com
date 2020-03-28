@@ -1,8 +1,6 @@
 h2.heading-title{
-  font-family: $heading-font;
-  font-weight: $heading-weight;
   color: $heading-color;
-  font-size: $heading-h2-size;
+  font-size: $heading-h2-size*1.05;
   padding-bottom: 7px;
   border-bottom: 1px solid #ddd;
   margin: 2rem 0 1rem 0;
@@ -82,11 +80,10 @@ h2.heading-title{
     padding-bottom: 5px;
     &:before{
       content: "● ";
-      color: #999;
-      font-size: $heading-h4-size*1.9;
+      color: #8ed08e;
+      font-size: 1.45rem;
       vertical-align: unset;
       line-height: 1;
-      margin-right: -10px;
     }
   }
   h2.question{
