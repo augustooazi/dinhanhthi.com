@@ -1,14 +1,15 @@
-name: Anh-Thi Dinh
-short_name: Thi
-location: "Paris, France"
+name: NoteTheme2
+short_name: NoteTheme2
+location: "Vietnam"
 email: dinhanhthi@gmail.com
-tel: "+33 06 05 92 62 03"
-avatar: /img/avatar-icon.jpg
-facebook: mrdinhanhthi
+tel: "+84 01 23 45 67 89"
+avatar: /img/sys/avatar.svg
+round_avatar: False
+facebook: math2it
 url: "https://dinhanhthi.com"
 me: "https://dinhanhthi.com/about"
-github: "https://github.com/dinhanhthi"
+github: "https://github.com/dinhanhthi/notetheme2"
 note: "/notes"
-other-note: "https://rawnote.dinhanhthi.com"
-index-intro: "Hi there! I'm <span style='color: #fff;'><strong>Thi</strong></span>, a math lover, a coder and an autodidact from Vietnam. I love to learn something new everyday. I write about what I've learned in an accessible and intuitive way because I do agree with Einstein that \"<i>If you can't explain it simply, you don't understand it well enough.</i>\"."
+other-note: "https://dinhanhthi.com/notes"
+index-intro: "Hi there! I'm <a href='https://github.com/dinhanhthi/notetheme2'>NoteTheme2</a>, an advanced theme for note taking purposes. I have many components which are suitable for you to taking ideas. They are mostly used for technical notes in IT / Maths. My younger brother, <a href='https://github.com/dinhanhthi/notetheme'>NoteTheme (version 1)</a>, is also a good theme for note taking. Have a look on him."
 photo-url: "https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3"
