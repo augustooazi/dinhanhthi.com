@@ -1,4 +1,4 @@
-# NoteTheme2
+# ✒ NoteTheme2
 
 An advanced upgrade from [NoteTheme version 1](https://github.com/dinhanhthi/notetheme). Below are big updates:
 
