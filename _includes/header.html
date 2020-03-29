@@ -4,7 +4,7 @@
       <div class="row align-items-center">
         <div class="col-md-3 offset-md-1">
           <div class="img-avatar">
-            <img alt="Thi's avatar" src="{{ site.data.me.avatar }}">
+            <img {% if site.data.me.round_avatar %}class="round-image"{% endif %} alt="Thi's avatar" src="{{ site.data.me.avatar }}">
           </div>
         </div>
         <div class="col-md-7 text-center idx-abt">
