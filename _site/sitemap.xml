@@ -1264,7 +1264,7 @@
   
   <url>
     <loc>https://dinhanhthi.com/11ty-nunjucks/</loc>
-    <lastmod>2020-12-06T23:33:42.000Z</lastmod>
+    <lastmod>2020-12-07T00:13:28.000Z</lastmod>
   </url>
   
   
@@ -1548,7 +1548,7 @@
   
   
   <url>
-    <loc>https://dinhanhthi.com/tags/algorithms/</loc>
+    <loc>https://dinhanhthi.com/tags/data-science/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
@@ -1561,7 +1561,7 @@
   
   
   <url>
-    <loc>https://dinhanhthi.com/tags/data-science/</loc>
+    <loc>https://dinhanhthi.com/tags/algorithms/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
@@ -1665,6 +1665,19 @@
   
   
   <url>
+    <loc>https://dinhanhthi.com/tags/project-based-learning/</loc>
+    <lastmod>2020-12-06T23:37:31.508Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <url>
     <loc>https://dinhanhthi.com/tags/fresh-installation/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
@@ -1691,7 +1704,7 @@
   
   
   <url>
-    <loc>https://dinhanhthi.com/tags/project-based-learning/</loc>
+    <loc>https://dinhanhthi.com/tags/r-lang/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
@@ -1705,19 +1718,6 @@
   
   <url>
     <loc>https://dinhanhthi.com/tags/skills/</loc>
-    <lastmod>2020-12-06T23:37:31.508Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  <url>
-    <loc>https://dinhanhthi.com/tags/r-lang/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
@@ -1769,7 +1769,7 @@
   
   
   <url>
-    <loc>https://dinhanhthi.com/tags/jekyll/</loc>
+    <loc>https://dinhanhthi.com/tags/gatsbyjs/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
@@ -1795,7 +1795,7 @@
   
   
   <url>
-    <loc>https://dinhanhthi.com/tags/gatsbyjs/</loc>
+    <loc>https://dinhanhthi.com/tags/jekyll/</loc>
     <lastmod>2020-12-06T23:37:31.508Z</lastmod>
   </url>
   
